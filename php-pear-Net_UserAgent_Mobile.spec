@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - HTTP mobile user agent string parser
 Name:		php-pear-%{_pearname}
-Version:	0.26.0
+Version:	0.30.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
