@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.0
-Release:	6
+Release:	7
 Summary:	HTTP mobile user agent string parser
 License:	PHP License
 Group:		Development/PHP
